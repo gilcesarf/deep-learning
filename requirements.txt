@@ -6,3 +6,7 @@ scikit-learn
 torchvision
 ipympl
 pandas
+seaborn
+plotly
+ipykernel
+notebook
