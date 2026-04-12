@@ -11,3 +11,4 @@ plotly
 ipykernel
 notebook
 ipywidgets
+scikit-posthocs
