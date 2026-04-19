@@ -12,3 +12,4 @@ ipykernel
 notebook
 ipywidgets
 scikit-posthocs
+nbconvert
