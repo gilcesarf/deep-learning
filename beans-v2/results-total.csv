@@ -1,0 +1,305 @@
+﻿name;hidden_layers;optimizer;activation;dropout;lr;use_batch_norm;Soma de validation_f1_macro;Soma de validation_accuracy;Soma de training_time_sec
+gelu_grid-config_30;[128, 64];adamw;gelu;0;0,0010;False;0,950446;0,941837;19,818
+gelu_grid-config_39;[128, 64];adamw;gelu;0,1;0,0010;False;0,949260;0,941837;14,644
+full_grid-config_119;[64, 32];rmsprop;relu;0,2;0,0005;False;0,949517;0,941837;37,957
+gelu_grid-config_40;[128, 64];adamw;gelu;0,1;0,0010;False;0,950390;0,941837;11,380
+gelu_grid-config_36;[128, 64];adamw;gelu;0,1;0,0005;False;0,949076;0,940816;27,568
+gelu_grid-config_18;[64, 32];adamw;gelu;0,2;0,0005;False;0,949154;0,940816;23,472
+gelu_grid-config_13;[64, 32];adamw;gelu;0,1;0,0010;False;0,948992;0,940816;22,386
+simple_grid-config_21;[8];adamw;relu;0;0,0010;False;0,947958;0,940816;57,006
+gelu_grid-config_22;[64, 32];adamw;gelu;0,2;0,0010;False;0,949846;0,940816;24,993
+gelu_grid-config_16;[64, 32];adamw;gelu;0,1;0,0010;False;0,948662;0,940816;25,803
+gelu_grid-config_35;[128, 64];adamw;gelu;0,1;0,0005;False;0,948719;0,940816;21,434
+full_grid-config_159;[128, 64];adam;relu;0,2;0,0005;False;0,948541;0,940816;26,790
+full_grid-config_73;[64];adam;tanh;0;0,0010;False;0,948801;0,940816;50,259
+full_grid-config_163;[128, 64];adamw;relu;0,2;0,0005;False;0,949447;0,940816;35,723
+full_grid-config_25;[32];adam;tanh;0;0,0010;False;0,949402;0,940816;69,963
+full_grid-config_169;[128, 64];adam;tanh;0;0,0010;False;0,946451;0,939796;40,490
+gelu_grid-config_37;[128, 64];adamw;gelu;0,1;0,0010;False;0,948600;0,939796;12,362
+full_grid-config_162;[128, 64];adamw;relu;0,2;0,0010;False;0,948249;0,939796;8,301
+full_grid-config_178;[128, 64];rmsprop;tanh;0;0,0010;False;0,946883;0,939796;9,614
+gelu_grid-config_15;[64, 32];adamw;gelu;0,1;0,0010;False;0,947683;0,939796;24,377
+full_grid-config_77;[64];adamw;tanh;0;0,0010;False;0,948186;0,939796;40,065
+simple_grid-config_17;[8];adam;relu;0;0,0010;False;0,945972;0,939796;54,911
+gelu_grid-config_9;[64, 32];adamw;gelu;0,1;0,0005;False;0,946800;0,938776;26,419
+full_grid-config_171;[128, 64];adam;tanh;0;0,0005;False;0,945571;0,938776;25,968
+full_grid-config_150;[128, 64];adamw;relu;0;0,0010;False;0,947959;0,938776;10,905
+full_grid-config_20;[32];adamw;relu;0,2;0,0005;False;0,944695;0,938776;23,941
+full_grid-config_188;[128, 64];adamw;tanh;0,2;0,0005;False;0,944958;0,938776;17,752
+full_grid-config_21;[32];rmsprop;relu;0,2;0,0010;False;0,946800;0,938776;32,816
+full_grid-config_146;[128, 64];adam;relu;0;0,0010;False;0,946328;0,938776;9,138
+full_grid-config_24;[32];rmsprop;relu;0,2;0,0005;False;0,943808;0,938776;21,572
+full_grid-config_157;[128, 64];adam;relu;0,2;0,0010;False;0,946950;0,938776;19,386
+gelu_grid-config_20;[64, 32];adamw;gelu;0,2;0,0005;False;0,947522;0,938776;23,390
+full_grid-config_166;[128, 64];rmsprop;relu;0,2;0,0010;False;0,944453;0,938776;10,594
+full_grid-config_29;[32];adamw;tanh;0;0,0010;False;0,946856;0,938776;61,219
+gelu_grid-config_44;[128, 64];adamw;gelu;0,2;0,0005;False;0,947304;0,938776;17,670
+full_grid-config_50;[64];adam;relu;0;0,0010;False;0,947647;0,938776;19,911
+simple_grid-config_54;[16, 8];adamw;relu;0;0,0010;False;0,943902;0,938776;13,159
+full_grid-config_7;[32];adamw;relu;0;0,0005;False;0,945704;0,938776;75,697
+full_grid-config_148;[128, 64];adam;relu;0;0,0005;False;0,945343;0,938776;16,349
+full_grid-config_140;[64, 32];adamw;tanh;0,2;0,0005;False;0,944578;0,938776;24,737
+full_grid-config_151;[128, 64];adamw;relu;0;0,0005;False;0,947782;0,938776;43,615
+full_grid-config_173;[128, 64];adamw;tanh;0;0,0010;False;0,946234;0,938776;43,224
+full_grid-config_116;[64, 32];adamw;relu;0,2;0,0005;False;0,944758;0,938776;18,458
+full_grid-config_80;[64];adamw;tanh;0;0,0005;False;0,946471;0,938776;22,963
+full_grid-config_105;[64, 32];rmsprop;relu;0;0,0010;False;0,947346;0,938776;37,152
+full_grid-config_95;[64];rmsprop;tanh;0,2;0,0005;False;0,946638;0,938776;83,867
+full_grid-config_186;[128, 64];adamw;tanh;0,2;0,0010;False;0,944461;0,938776;14,223
+full_grid-config_174;[128, 64];adamw;tanh;0;0,0010;False;0,945597;0,938776;12,398
+gelu_grid-config_48;[128, 64];adamw;gelu;0,2;0,0010;False;0,946440;0,938776;19,020
+full_grid-config_143;[64, 32];rmsprop;tanh;0,2;0,0005;False;0,944622;0,938776;45,775
+gelu_grid-config_28;[128, 64];adamw;gelu;0;0,0005;False;0,946408;0,938776;16,426
+simple_grid-config_38;[16];adamw;relu;0;0,0010;False;0,947243;0,938776;20,764
+full_grid-config_189;[128, 64];rmsprop;tanh;0,2;0,0010;False;0,946854;0,938776;39,268
+simple_grid-config_39;[16];adamw;relu;0;0,0005;False;0,947595;0,938776;73,790
+full_grid-config_32;[32];adamw;tanh;0;0,0005;False;0,944941;0,938776;23,490
+gelu_grid-config_31;[128, 64];adamw;gelu;0;0,0010;False;0,946432;0,937755;12,995
+full_grid-config_165;[128, 64];rmsprop;relu;0,2;0,0010;False;0,947114;0,937755;26,125
+gelu_grid-config_3;[64, 32];adamw;gelu;0;0,0005;False;0,945320;0,937755;30,536
+full_grid-config_187;[128, 64];adamw;tanh;0,2;0,0005;False;0,943782;0,937755;30,684
+full_grid-config_181;[128, 64];adam;tanh;0,2;0,0010;False;0,946302;0,937755;51,887
+full_grid-config_113;[64, 32];adamw;relu;0,2;0,0010;False;0,946107;0,937755;30,692
+gelu_grid-config_46;[128, 64];adamw;gelu;0,2;0,0010;False;0,945987;0,937755;18,919
+full_grid-config_190;[128, 64];rmsprop;tanh;0,2;0,0010;False;0,944570;0,937755;13,303
+full_grid-config_142;[64, 32];rmsprop;tanh;0,2;0,0010;False;0,941902;0,937755;7,587
+full_grid-config_191;[128, 64];rmsprop;tanh;0,2;0,0005;False;0,944540;0,937755;32,659
+full_grid-config_170;[128, 64];adam;tanh;0;0,0010;False;0,944595;0,937755;10,008
+full_grid-config_23;[32];rmsprop;relu;0,2;0,0005;False;0,944500;0,937755;67,205
+full_grid-config_185;[128, 64];adamw;tanh;0,2;0,0010;False;0,944013;0,937755;21,640
+full_grid-config_107;[64, 32];rmsprop;relu;0;0,0005;False;0,946484;0,937755;39,919
+gelu_grid-config_24;[64, 32];adamw;gelu;0,2;0,0010;False;0,945247;0,937755;17,031
+full_grid-config_154;[128, 64];rmsprop;relu;0;0,0010;False;0,944560;0,937755;11,174
+gelu_grid-config_1;[64, 32];adamw;gelu;0;0,0005;False;0,944799;0,937755;22,013
+full_grid-config_54;[64];adamw;relu;0;0,0010;False;0,945642;0,937755;14,331
+gelu_grid-config_14;[64, 32];adamw;gelu;0,1;0,0010;False;0,946417;0,937755;18,991
+full_grid-config_56;[64];adamw;relu;0;0,0005;False;0,946138;0,937755;24,630
+full_grid-config_123;[64, 32];adam;tanh;0;0,0005;False;0,944392;0,937755;36,075
+full_grid-config_59;[64];rmsprop;relu;0;0,0005;False;0,945715;0,937755;28,189
+full_grid-config_17;[32];adamw;relu;0,2;0,0010;False;0,944392;0,937755;45,852
+full_grid-config_6;[32];adamw;relu;0;0,0010;False;0,946103;0,937755;17,466
+full_grid-config_176;[128, 64];adamw;tanh;0;0,0005;False;0,944587;0,937755;17,824
+full_grid-config_61;[64];adam;relu;0,2;0,0010;False;0,946892;0,937755;46,454
+full_grid-config_183;[128, 64];adam;tanh;0,2;0,0005;False;0,943526;0,937755;44,789
+full_grid-config_65;[64];adamw;relu;0,2;0,0010;False;0,945646;0,937755;55,209
+gelu_grid-config_34;[128, 64];adamw;gelu;0,1;0,0005;False;0,944954;0,937755;20,315
+full_grid-config_156;[128, 64];rmsprop;relu;0;0,0005;False;0,945576;0,937755;18,917
+gelu_grid-config_32;[128, 64];adamw;gelu;0;0,0010;False;0,946437;0,937755;13,267
+full_grid-config_71;[64];rmsprop;relu;0,2;0,0005;False;0,946243;0,937755;67,628
+gelu_grid-config_43;[128, 64];adamw;gelu;0,2;0,0005;False;0,946243;0,937755;22,416
+full_grid-config_120;[64, 32];rmsprop;relu;0,2;0,0005;False;0,943811;0,937755;16,096
+gelu_grid-config_26;[128, 64];adamw;gelu;0;0,0005;False;0,946637;0,937755;20,932
+full_grid-config_158;[128, 64];adam;relu;0,2;0,0010;False;0,945946;0,937755;9,560
+gelu_grid-config_25;[128, 64];adamw;gelu;0;0,0005;False;0,945015;0,937755;23,762
+full_grid-config_122;[64, 32];adam;tanh;0;0,0010;False;0,944131;0,937755;10,707
+gelu_grid-config_4;[64, 32];adamw;gelu;0;0,0005;False;0,945774;0,937755;23,669
+full_grid-config_83;[64];rmsprop;tanh;0;0,0005;False;0,946058;0,937755;68,744
+full_grid-config_85;[64];adam;tanh;0,2;0,0010;False;0,945805;0,937755;34,716
+full_grid-config_99;[64, 32];adam;relu;0;0,0005;False;0,946535;0,937755;33,533
+full_grid-config_84;[64];rmsprop;tanh;0;0,0005;False;0,945339;0,936735;20,265
+full_grid-config_31;[32];adamw;tanh;0;0,0005;False;0,943140;0,936735;38,848
+gelu_grid-config_45;[128, 64];adamw;gelu;0,2;0,0010;False;0,944706;0,936735;16,628
+full_grid-config_110;[64, 32];adam;relu;0,2;0,0010;False;0,943523;0,936735;16,214
+full_grid-config_75;[64];adam;tanh;0;0,0005;False;0,944177;0,936735;50,829
+full_grid-config_118;[64, 32];rmsprop;relu;0,2;0,0010;False;0,944720;0,936735;9,436
+full_grid-config_94;[64];rmsprop;tanh;0,2;0,0010;False;0,944521;0,936735;17,243
+simple_grid-config_26;[8];adam;relu;0,2;0,0010;False;0,943863;0,936735;24,204
+gelu_grid-config_8;[64, 32];adamw;gelu;0;0,0010;False;0,945553;0,936735;15,931
+full_grid-config_125;[64, 32];adamw;tanh;0;0,0010;False;0,944386;0,936735;45,619
+gelu_grid-config_21;[64, 32];adamw;gelu;0,2;0,0010;False;0,945035;0,936735;17,724
+full_grid-config_164;[128, 64];adamw;relu;0,2;0,0005;False;0,945200;0,936735;14,789
+full_grid-config_44;[32];adamw;tanh;0,2;0,0005;False;0,942351;0,936735;23,682
+simple_grid-config_50;[16, 8];adam;relu;0;0,0010;False;0,942558;0,936735;15,069
+full_grid-config_87;[64];adam;tanh;0,2;0,0005;False;0,944853;0,936735;48,441
+simple_grid-config_51;[16, 8];adam;relu;0;0,0005;False;0,945285;0,936735;80,301
+gelu_grid-config_10;[64, 32];adamw;gelu;0,1;0,0005;False;0,945910;0,936735;25,296
+full_grid-config_2;[32];adam;relu;0;0,0010;False;0,942721;0,936735;18,246
+gelu_grid-config_42;[128, 64];adamw;gelu;0,2;0,0005;False;0,945202;0,936735;19,817
+full_grid-config_128;[64, 32];adamw;tanh;0;0,0005;False;0,943291;0,936735;15,276
+full_grid-config_66;[64];adamw;relu;0,2;0,0010;False;0,945569;0,936735;14,124
+full_grid-config_167;[128, 64];rmsprop;relu;0,2;0,0005;False;0,942644;0,936735;22,537
+full_grid-config_70;[64];rmsprop;relu;0,2;0,0010;False;0,944906;0,936735;14,246
+full_grid-config_13;[32];adam;relu;0,2;0,0010;False;0,941736;0,936735;52,518
+full_grid-config_33;[32];rmsprop;tanh;0;0,0010;False;0,944164;0,936735;47,409
+full_grid-config_26;[32];adam;tanh;0;0,0010;False;0,943322;0,936735;21,501
+full_grid-config_38;[32];adam;tanh;0,2;0,0010;False;0,942616;0,936735;16,291
+full_grid-config_1;[32];adam;relu;0;0,0010;False;0,944701;0,936735;38,731
+full_grid-config_100;[64, 32];adam;relu;0;0,0005;False;0,944233;0,936735;16,143
+full_grid-config_135;[64, 32];adam;tanh;0,2;0,0005;False;0,942613;0,936735;62,899
+full_grid-config_149;[128, 64];adamw;relu;0;0,0010;False;0,944524;0,936735;25,600
+full_grid-config_136;[64, 32];adam;tanh;0,2;0,0005;False;0,942092;0,936735;16,016
+full_grid-config_9;[32];rmsprop;relu;0;0,0010;False;0,945244;0,936735;34,913
+full_grid-config_138;[64, 32];adamw;tanh;0,2;0,0010;False;0,942204;0,936735;14,166
+full_grid-config_160;[128, 64];adam;relu;0,2;0,0005;False;0,944168;0,936735;14,581
+full_grid-config_175;[128, 64];adamw;tanh;0;0,0005;False;0,943780;0,936735;30,795
+gelu_grid-config_47;[128, 64];adamw;gelu;0,2;0,0010;False;0,944916;0,936735;10,619
+full_grid-config_153;[128, 64];rmsprop;relu;0;0,0010;False;0,944556;0,936735;36,599
+gelu_grid-config_5;[64, 32];adamw;gelu;0;0,0010;False;0,943441;0,936735;14,233
+full_grid-config_177;[128, 64];rmsprop;tanh;0;0,0010;False;0,944676;0,936735;21,926
+gelu_grid-config_6;[64, 32];adamw;gelu;0;0,0010;False;0,946500;0,936735;13,865
+full_grid-config_109;[64, 32];adam;relu;0,2;0,0010;False;0,945594;0,936735;53,430
+gelu_grid-config_33;[128, 64];adamw;gelu;0,1;0,0005;False;0,945391;0,936735;14,161
+full_grid-config_180;[128, 64];rmsprop;tanh;0;0,0005;False;0,942911;0,936735;10,659
+full_grid-config_161;[128, 64];adamw;relu;0,2;0,0010;False;0,945211;0,936735;16,276
+full_grid-config_41;[32];adamw;tanh;0,2;0,0010;False;0,942765;0,936735;42,599
+gelu_grid-config_23;[64, 32];adamw;gelu;0,2;0,0010;False;0,944308;0,935714;21,323
+full_grid-config_72;[64];rmsprop;relu;0,2;0,0005;False;0,943564;0,935714;21,385
+simple_grid-config_45;[16];adamw;relu;0,2;0,0010;False;0,941711;0,935714;55,228
+full_grid-config_43;[32];adamw;tanh;0,2;0,0005;False;0,941514;0,935714;60,147
+full_grid-config_76;[64];adam;tanh;0;0,0005;False;0,942706;0,935714;22,077
+full_grid-config_168;[128, 64];rmsprop;relu;0,2;0,0005;False;0,943361;0,935714;10,880
+full_grid-config_8;[32];adamw;relu;0;0,0005;False;0,941773;0,935714;22,967
+full_grid-config_49;[64];adam;relu;0;0,0010;False;0,943962;0,935714;37,600
+full_grid-config_35;[32];rmsprop;tanh;0;0,0005;False;0,943863;0,935714;52,750
+full_grid-config_126;[64, 32];adamw;tanh;0;0,0010;False;0,942070;0,935714;12,010
+full_grid-config_74;[64];adam;tanh;0;0,0010;False;0,942147;0,935714;14,293
+full_grid-config_139;[64, 32];adamw;tanh;0,2;0,0005;False;0,941450;0,935714;37,820
+full_grid-config_78;[64];adamw;tanh;0;0,0010;False;0,943832;0,935714;17,364
+full_grid-config_55;[64];adamw;relu;0;0,0005;False;0,944267;0,935714;46,182
+gelu_grid-config_12;[64, 32];adamw;gelu;0,1;0,0005;False;0,942848;0,935714;32,153
+full_grid-config_90;[64];adamw;tanh;0,2;0,0010;False;0,941781;0,935714;9,569
+full_grid-config_134;[64, 32];adam;tanh;0,2;0,0010;False;0,941786;0,935714;11,361
+full_grid-config_91;[64];adamw;tanh;0,2;0,0005;False;0,943230;0,935714;59,749
+full_grid-config_114;[64, 32];adamw;relu;0,2;0,0010;False;0,942141;0,935714;10,708
+full_grid-config_93;[64];rmsprop;tanh;0,2;0,0010;False;0,943471;0,935714;39,406
+full_grid-config_36;[32];rmsprop;tanh;0;0,0005;False;0,941544;0,935714;15,446
+full_grid-config_14;[32];adam;relu;0,2;0,0010;False;0,942593;0,935714;21,064
+full_grid-config_103;[64, 32];adamw;relu;0;0,0005;False;0,944152;0,935714;23,590
+full_grid-config_184;[128, 64];adam;tanh;0,2;0,0005;False;0,942116;0,935714;15,923
+full_grid-config_4;[32];adam;relu;0;0,0005;False;0,943494;0,935714;23,164
+full_grid-config_121;[64, 32];adam;tanh;0;0,0010;False;0,944355;0,935714;33,768
+gelu_grid-config_19;[64, 32];adamw;gelu;0,2;0,0005;False;0,942314;0,935714;26,125
+full_grid-config_172;[128, 64];adam;tanh;0;0,0005;False;0,943500;0,935714;19,921
+gelu_grid-config_11;[64, 32];adamw;gelu;0,1;0,0005;False;0,943757;0,935714;30,197
+full_grid-config_106;[64, 32];rmsprop;relu;0;0,0010;False;0,942622;0,935714;9,275
+gelu_grid-config_38;[128, 64];adamw;gelu;0,1;0,0010;False;0,944499;0,935714;9,625
+simple_grid-config_23;[8];adamw;relu;0;0,0005;False;0,942110;0,935714;82,425
+gelu_grid-config_17;[64, 32];adamw;gelu;0,2;0,0005;False;0,943881;0,935714;17,129
+full_grid-config_63;[64];adam;relu;0,2;0,0005;False;0,944243;0,935714;51,717
+full_grid-config_155;[128, 64];rmsprop;relu;0;0,0005;False;0,944468;0,935714;23,797
+full_grid-config_62;[64];adam;relu;0,2;0,0010;False;0,941473;0,935714;23,267
+full_grid-config_27;[32];adam;tanh;0;0,0005;False;0,942353;0,934694;48,738
+full_grid-config_68;[64];adamw;relu;0,2;0,0005;False;0,941169;0,934694;24,592
+gelu_grid-config_29;[128, 64];adamw;gelu;0;0,0010;False;0,944097;0,934694;25,416
+full_grid-config_89;[64];adamw;tanh;0,2;0,0010;False;0,942862;0,934694;47,025
+full_grid-config_10;[32];rmsprop;relu;0;0,0010;False;0,942884;0,934694;12,428
+full_grid-config_129;[64, 32];rmsprop;tanh;0;0,0010;False;0,942162;0,934694;30,543
+full_grid-config_108;[64, 32];rmsprop;relu;0;0,0005;False;0,941744;0,934694;13,736
+full_grid-config_152;[128, 64];adamw;relu;0;0,0005;False;0,942719;0,934694;9,628
+full_grid-config_60;[64];rmsprop;relu;0;0,0005;False;0,943434;0,934694;19,352
+full_grid-config_39;[32];adam;tanh;0,2;0,0005;False;0,940295;0,934694;49,956
+full_grid-config_192;[128, 64];rmsprop;tanh;0,2;0,0005;False;0,940696;0,934694;10,272
+full_grid-config_131;[64, 32];rmsprop;tanh;0;0,0005;False;0,941216;0,934694;35,937
+full_grid-config_115;[64, 32];adamw;relu;0,2;0,0005;False;0,942814;0,934694;34,542
+full_grid-config_40;[32];adam;tanh;0,2;0,0005;False;0,941121;0,934694;23,360
+full_grid-config_28;[32];adam;tanh;0;0,0005;False;0,940993;0,934694;23,238
+full_grid-config_42;[32];adamw;tanh;0,2;0,0010;False;0,942397;0,934694;14,523
+gelu_grid-config_7;[64, 32];adamw;gelu;0;0,0010;False;0,942764;0,934694;15,189
+simple_grid-config_36;[16];adam;relu;0;0,0005;False;0,939900;0,934694;23,196
+gelu_grid-config_2;[64, 32];adamw;gelu;0;0,0005;False;0,943659;0,934694;17,872
+simple_grid-config_37;[16];adamw;relu;0;0,0010;False;0,942658;0,934694;62,497
+full_grid-config_64;[64];adam;relu;0,2;0,0005;False;0,941826;0,934694;20,820
+full_grid-config_132;[64, 32];rmsprop;tanh;0;0,0005;False;0,940293;0,934694;11,405
+full_grid-config_69;[64];rmsprop;relu;0,2;0,0010;False;0,942458;0,934694;28,934
+simple_grid-config_55;[16, 8];adamw;relu;0;0,0005;False;0,941973;0,934694;57,842
+full_grid-config_124;[64, 32];adam;tanh;0;0,0005;False;0,940666;0,934694;13,469
+simple_grid-config_59;[16, 8];adam;relu;0,2;0,0005;False;0,939633;0,934694;96,226
+full_grid-config_144;[64, 32];rmsprop;tanh;0,2;0,0005;False;0,941208;0,934694;14,984
+full_grid-config_182;[128, 64];adam;tanh;0,2;0,0010;False;0,940995;0,934694;9,957
+full_grid-config_147;[128, 64];adam;relu;0;0,0005;False;0,942900;0,934694;31,390
+full_grid-config_51;[64];adam;relu;0;0,0005;False;0,943226;0,934694;45,458
+full_grid-config_79;[64];adamw;tanh;0;0,0005;False;0,941997;0,934694;41,417
+full_grid-config_52;[64];adam;relu;0;0,0005;False;0,941562;0,934694;16,109
+full_grid-config_3;[32];adam;relu;0;0,0005;False;0,942756;0,934694;53,276
+full_grid-config_11;[32];rmsprop;relu;0;0,0005;False;0,940917;0,934694;52,364
+full_grid-config_86;[64];adam;tanh;0,2;0,0010;False;0,942680;0,934694;17,203
+full_grid-config_57;[64];rmsprop;relu;0;0,0010;False;0,943139;0,934694;25,660
+gelu_grid-config_41;[128, 64];adamw;gelu;0,2;0,0005;False;0,941776;0,934694;16,387
+full_grid-config_58;[64];rmsprop;relu;0;0,0010;False;0,941149;0,934694;11,324
+gelu_grid-config_27;[128, 64];adamw;gelu;0;0,0005;False;0,942984;0,934694;19,611
+full_grid-config_16;[32];adam;relu;0,2;0,0005;False;0,940997;0,934694;24,049
+full_grid-config_137;[64, 32];adamw;tanh;0,2;0,0010;False;0,941871;0,934694;40,116
+full_grid-config_48;[32];rmsprop;tanh;0,2;0,0005;False;0,941090;0,934694;18,242
+full_grid-config_112;[64, 32];adam;relu;0,2;0,0005;False;0,941349;0,933673;22,208
+full_grid-config_130;[64, 32];rmsprop;tanh;0;0,0010;False;0,940780;0,933673;11,664
+simple_grid-config_24;[8];adamw;relu;0;0,0005;False;0,939843;0,933673;23,370
+full_grid-config_96;[64];rmsprop;tanh;0,2;0,0005;False;0,940052;0,933673;11,675
+full_grid-config_92;[64];adamw;tanh;0,2;0,0005;False;0,939577;0,933673;21,891
+full_grid-config_18;[32];adamw;relu;0,2;0,0010;False;0,939723;0,933673;17,411
+full_grid-config_34;[32];rmsprop;tanh;0;0,0010;False;0,939035;0,933673;13,079
+simple_grid-config_43;[16];adam;relu;0,2;0,0005;False;0,939587;0,933673;83,554
+full_grid-config_127;[64, 32];adamw;tanh;0;0,0005;False;0,940359;0,933673;46,450
+simple_grid-config_46;[16];adamw;relu;0,2;0,0010;False;0,939243;0,933673;20,655
+full_grid-config_12;[32];rmsprop;relu;0;0,0005;False;0,940882;0,933673;20,775
+simple_grid-config_47;[16];adamw;relu;0,2;0,0005;False;0,939052;0,933673;68,496
+full_grid-config_19;[32];adamw;relu;0,2;0,0005;False;0,941746;0,933673;49,405
+full_grid-config_47;[32];rmsprop;tanh;0,2;0,0005;False;0,939547;0,933673;44,898
+simple_grid-config_19;[8];adam;relu;0;0,0005;False;0,939579;0,933673;55,748
+simple_grid-config_52;[16, 8];adam;relu;0;0,0005;False;0,939203;0,933673;25,577
+full_grid-config_145;[128, 64];adam;relu;0;0,0010;False;0,941207;0,933673;17,345
+simple_grid-config_53;[16, 8];adamw;relu;0;0,0010;False;0,941724;0,933673;48,719
+full_grid-config_37;[32];adam;tanh;0,2;0,0010;False;0,939201;0,933673;27,233
+simple_grid-config_57;[16, 8];adam;relu;0,2;0,0010;False;0,942615;0,933673;61,057
+full_grid-config_82;[64];rmsprop;tanh;0;0,0010;False;0,940179;0,933673;11,480
+full_grid-config_30;[32];adamw;tanh;0;0,0010;False;0,939844;0,933673;13,097
+full_grid-config_133;[64, 32];adam;tanh;0,2;0,0010;False;0,938125;0,932653;36,067
+full_grid-config_141;[64, 32];rmsprop;tanh;0,2;0,0010;False;0,940348;0,932653;35,108
+simple_grid-config_42;[16];adam;relu;0,2;0,0010;False;0,939568;0,932653;22,831
+full_grid-config_97;[64, 32];adam;relu;0;0,0010;False;0,940664;0,932653;24,658
+full_grid-config_179;[128, 64];rmsprop;tanh;0;0,0005;False;0,938713;0,932653;16,170
+simple_grid-config_13;[];adamw;relu;0,2;0,0010;False;0,941119;0,932653;52,340
+simple_grid-config_3;[];adam;relu;0;0,0005;False;0,941641;0,932653;66,919
+full_grid-config_98;[64, 32];adam;relu;0;0,0010;False;0,940758;0,932653;12,204
+simple_grid-config_62;[16, 8];adamw;relu;0,2;0,0010;False;0,940451;0,932653;26,876
+full_grid-config_111;[64, 32];adam;relu;0,2;0,0005;False;0,939110;0,932653;32,508
+simple_grid-config_7;[];adamw;relu;0;0,0005;False;0,941641;0,932653;65,277
+simple_grid-config_5;[];adamw;relu;0;0,0010;False;0,941119;0,932653;66,141
+simple_grid-config_9;[];adam;relu;0,2;0,0010;False;0,941641;0,932653;66,875
+simple_grid-config_18;[8];adam;relu;0;0,0010;False;0,938665;0,932653;15,642
+full_grid-config_45;[32];rmsprop;tanh;0,2;0,0010;False;0,938825;0,932653;42,905
+full_grid-config_117;[64, 32];rmsprop;relu;0,2;0,0010;False;0,939858;0,932653;32,277
+full_grid-config_81;[64];rmsprop;tanh;0;0,0010;False;0,939341;0,932653;25,532
+full_grid-config_102;[64, 32];adamw;relu;0;0,0010;False;0,941367;0,932653;15,148
+full_grid-config_67;[64];adamw;relu;0,2;0,0005;False;0,939281;0,932653;41,526
+full_grid-config_5;[32];adamw;relu;0;0,0010;False;0,940563;0,932653;36,715
+simple_grid-config_33;[16];adam;relu;0;0,0010;False;0,938907;0,932653;36,676
+full_grid-config_53;[64];adamw;relu;0;0,0010;False;0,941155;0,932653;26,426
+full_grid-config_104;[64, 32];adamw;relu;0;0,0005;False;0,939008;0,932653;13,525
+simple_grid-config_27;[8];adam;relu;0,2;0,0005;False;0,940485;0,931633;72,686
+simple_grid-config_58;[16, 8];adam;relu;0,2;0,0010;False;0,939428;0,931633;27,145
+simple_grid-config_56;[16, 8];adamw;relu;0;0,0005;False;0,939211;0,931633;22,879
+simple_grid-config_44;[16];adam;relu;0,2;0,0005;False;0,938443;0,931633;23,705
+simple_grid-config_1;[];adam;relu;0;0,0010;False;0,940490;0,931633;57,901
+full_grid-config_101;[64, 32];adamw;relu;0;0,0010;False;0,938355;0,931633;29,684
+simple_grid-config_48;[16];adamw;relu;0,2;0,0005;False;0,939263;0,931633;23,929
+full_grid-config_46;[32];rmsprop;tanh;0,2;0,0010;False;0,937643;0,931633;8,929
+simple_grid-config_31;[8];adamw;relu;0,2;0,0005;False;0,937355;0,931633;72,302
+simple_grid-config_41;[16];adam;relu;0,2;0,0010;False;0,937763;0,931633;33,571
+full_grid-config_88;[64];adam;tanh;0,2;0,0005;False;0,938315;0,931633;18,544
+simple_grid-config_40;[16];adamw;relu;0;0,0005;False;0,939780;0,931633;23,638
+simple_grid-config_49;[16, 8];adam;relu;0;0,0010;False;0,935501;0,930612;21,222
+simple_grid-config_35;[16];adam;relu;0;0,0005;False;0,937123;0,930612;50,545
+simple_grid-config_61;[16, 8];adamw;relu;0,2;0,0010;False;0,942001;0,930612;45,582
+simple_grid-config_20;[8];adam;relu;0;0,0005;False;0,938329;0,930612;23,419
+simple_grid-config_11;[];adam;relu;0,2;0,0005;False;0,940381;0,930612;65,839
+simple_grid-config_60;[16, 8];adam;relu;0,2;0,0005;False;0,936851;0,930612;27,165
+full_grid-config_15;[32];adam;relu;0,2;0,0005;False;0,937563;0,930612;46,004
+simple_grid-config_25;[8];adam;relu;0,2;0,0010;False;0,937853;0,930612;62,200
+simple_grid-config_34;[16];adam;relu;0;0,0010;False;0,938623;0,930612;21,441
+simple_grid-config_22;[8];adamw;relu;0;0,0010;False;0,935362;0,929592;19,351
+simple_grid-config_15;[];adamw;relu;0,2;0,0005;False;0,938752;0,929592;66,464
+full_grid-config_22;[32];rmsprop;relu;0,2;0,0010;False;0,936101;0,929592;15,411
+simple_grid-config_63;[16, 8];adamw;relu;0,2;0,0005;False;0,935795;0,929592;97,004
+simple_grid-config_29;[8];adamw;relu;0,2;0,0010;False;0,935402;0,928571;63,785
+simple_grid-config_4;[];adam;relu;0;0,0005;False;0,935442;0,927551;19,727
+simple_grid-config_16;[];adamw;relu;0,2;0,0005;False;0,935472;0,927551;19,360
+simple_grid-config_6;[];adamw;relu;0;0,0010;False;0,936684;0,927551;19,730
+simple_grid-config_64;[16, 8];adamw;relu;0,2;0,0005;False;0,933406;0,927551;26,760
+simple_grid-config_14;[];adamw;relu;0,2;0,0010;False;0,936208;0,927551;19,527
+simple_grid-config_12;[];adam;relu;0,2;0,0005;False;0,935387;0,927551;19,381
+simple_grid-config_10;[];adam;relu;0,2;0,0010;False;0,936684;0,927551;19,560
+simple_grid-config_8;[];adamw;relu;0;0,0005;False;0,934813;0,926531;19,562
+simple_grid-config_2;[];adam;relu;0;0,0010;False;0,935580;0,926531;19,592
+simple_grid-config_30;[8];adamw;relu;0,2;0,0010;False;0,932621;0,924490;23,382
+simple_grid-config_32;[8];adamw;relu;0,2;0,0005;False;0,930563;0,923469;23,860
+simple_grid-config_28;[8];adam;relu;0,2;0,0005;False;0,927805;0,923469;23,779
