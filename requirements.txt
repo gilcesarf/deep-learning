@@ -13,3 +13,4 @@ notebook
 ipywidgets
 scikit-posthocs
 nbconvert
+opencv-python
