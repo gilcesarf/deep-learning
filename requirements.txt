@@ -14,3 +14,6 @@ ipywidgets
 scikit-posthocs
 nbconvert
 opencv-python
+icrawler
+pillow
+imagehash
