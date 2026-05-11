@@ -6,3 +6,6 @@ CLAUDE.md
 solutions
 exercises
 data/insetos/.DS_Store
+*.py
+*.md
+.agents/
