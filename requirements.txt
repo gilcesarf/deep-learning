@@ -17,3 +17,5 @@ opencv-python
 icrawler
 pillow
 imagehash
+gdown
+ultralytics
