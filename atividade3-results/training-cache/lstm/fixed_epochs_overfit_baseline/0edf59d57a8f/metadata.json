@@ -1,0 +1,23 @@
+{
+  "model_name": "lstm",
+  "scenario": {
+    "scenario_name": "fixed_epochs_overfit_baseline",
+    "max_epochs": 15,
+    "learning_rate": 0.0001,
+    "classifier_dropout": 0.5,
+    "transformer_dropout": 0.5,
+    "weight_decay": 0.0,
+    "use_early_stopping": false,
+    "early_stopping_patience": null,
+    "use_scheduler": false,
+    "scheduler_factor": null,
+    "scheduler_patience": null,
+    "selection_metric": "val_f1"
+  },
+  "experiment_signature": "0edf59d57a8f",
+  "tracked_selection_metrics": [
+    "val_loss",
+    "val_accuracy",
+    "val_f1"
+  ]
+}
